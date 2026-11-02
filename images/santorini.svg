@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350">
+  <rect width="600" height="350" fill="#9bd8ef"/>
+  <circle cx="480" cy="65" r="40" fill="#ffd166"/>
+  <path d="M0 210 Q150 180 300 210 T600 200 V350 H0Z" fill="#2586ae"/>
+  <path d="M100 210 V115 Q100 80 145 80 Q190 80 190 115 V210Z" fill="white"/>
+  <path d="M100 115 Q145 25 190 115Z" fill="#176da3"/>
+  <path d="M250 220 V130 Q250 95 295 95 Q340 95 340 130 V220Z" fill="white"/>
+  <path d="M250 130 Q295 40 340 130Z" fill="#176da3"/>
+  <path d="M400 210 V120 Q400 85 445 85 Q490 85 490 120 V210Z" fill="white"/>
+  <path d="M400 120 Q445 30 490 120Z" fill="#176da3"/>
+  <text x="300" y="325" text-anchor="middle" font-size="25" fill="white">SANTORINI, GREECE</text>
+</svg>
